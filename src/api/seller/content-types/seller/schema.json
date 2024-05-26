@@ -1,0 +1,37 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sellers",
+  "info": {
+    "singularName": "seller",
+    "pluralName": "sellers",
+    "displayName": "Seller",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Place": {
+      "type": "string"
+    },
+    "Area": {
+      "type": "string"
+    },
+    "No_Of_Bedrooms": {
+      "type": "string"
+    },
+    "No_Of_Bathrooms": {
+      "type": "string"
+    },
+    "No_Of_Hospital": {
+      "type": "string"
+    },
+    "No_Of_College": {
+      "type": "string"
+    },
+    "rent_img": {
+      "type": "string"
+    }
+  }
+}
